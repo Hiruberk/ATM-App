@@ -1,0 +1,13 @@
+D:\Grand Circus\Grand Circus Docs\Projects\ATM Code Along\ATM Code Along\bin\Debug\netcoreapp3.1\ATM Code Along.exe
+D:\Grand Circus\Grand Circus Docs\Projects\ATM Code Along\ATM Code Along\bin\Debug\netcoreapp3.1\ATM Code Along.deps.json
+D:\Grand Circus\Grand Circus Docs\Projects\ATM Code Along\ATM Code Along\bin\Debug\netcoreapp3.1\ATM Code Along.runtimeconfig.json
+D:\Grand Circus\Grand Circus Docs\Projects\ATM Code Along\ATM Code Along\bin\Debug\netcoreapp3.1\ATM Code Along.runtimeconfig.dev.json
+D:\Grand Circus\Grand Circus Docs\Projects\ATM Code Along\ATM Code Along\bin\Debug\netcoreapp3.1\ATM Code Along.dll
+D:\Grand Circus\Grand Circus Docs\Projects\ATM Code Along\ATM Code Along\bin\Debug\netcoreapp3.1\ATM Code Along.pdb
+D:\Grand Circus\Grand Circus Docs\Projects\ATM Code Along\ATM Code Along\obj\Debug\netcoreapp3.1\ATM Code Along.csprojAssemblyReference.cache
+D:\Grand Circus\Grand Circus Docs\Projects\ATM Code Along\ATM Code Along\obj\Debug\netcoreapp3.1\ATM Code Along.AssemblyInfoInputs.cache
+D:\Grand Circus\Grand Circus Docs\Projects\ATM Code Along\ATM Code Along\obj\Debug\netcoreapp3.1\ATM Code Along.AssemblyInfo.cs
+D:\Grand Circus\Grand Circus Docs\Projects\ATM Code Along\ATM Code Along\obj\Debug\netcoreapp3.1\ATM Code Along.csproj.CoreCompileInputs.cache
+D:\Grand Circus\Grand Circus Docs\Projects\ATM Code Along\ATM Code Along\obj\Debug\netcoreapp3.1\ATM Code Along.dll
+D:\Grand Circus\Grand Circus Docs\Projects\ATM Code Along\ATM Code Along\obj\Debug\netcoreapp3.1\ATM Code Along.pdb
+D:\Grand Circus\Grand Circus Docs\Projects\ATM Code Along\ATM Code Along\obj\Debug\netcoreapp3.1\ATM Code Along.genruntimeconfig.cache
